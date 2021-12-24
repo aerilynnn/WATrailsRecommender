@@ -1,2 +1,2 @@
 # WATrailsRecommender
-Link to microservice: [wailsrecommender.herokuapp.com](wailsrecommender.herokuapp.com)
+Link to microservice: [watrailsrecommender.herokuapp.com](watrailsrecommender.herokuapp.com)
